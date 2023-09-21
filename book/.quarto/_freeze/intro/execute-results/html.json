@@ -1,0 +1,14 @@
+{
+  "hash": "e0c8f512eb2efae198b7d1c1ad885841",
+  "result": {
+    "markdown": "# Introduction\n\nThis is a book created from markdown and executable code.\n\nSee @knuth84 for additional discussion of literate programming.\n\n\n\n\n::: {.cell layout-align=\"center\" engine.opts='{\"dvisvgm.opts\":\"--font-format=woff\"}'}\n::: {.cell-output-display}\n![](intro_files/figure-html/rectangle-text-1.svg){fig-align='center' width=50%}\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

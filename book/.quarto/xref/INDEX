@@ -1,0 +1,26 @@
+{
+  "intro.qmd": {
+    "intro.html": "33948c97"
+  },
+  "index.qmd": {
+    "index.html": "60ca7b7d"
+  },
+  "summary.qmd": {
+    "summary.html": "66b9bc94"
+  },
+  "references.qmd": {
+    "references.html": "68912783"
+  },
+  "lec01.qmd": {
+    "lec01.html": "70c9dd9f"
+  },
+  "lec02.qmd": {
+    "lec02.html": "9cb2d0fe"
+  },
+  "lec02/lec02.qmd": {
+    "lec02.html": "0a431aaf"
+  },
+  "lec01/lec01.qmd": {
+    "lec01.html": "2848e9bc"
+  }
+}

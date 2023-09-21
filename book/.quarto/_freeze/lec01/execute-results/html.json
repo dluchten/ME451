@@ -1,0 +1,16 @@
+{
+  "hash": "5ca65376f3110e96cf8ef850c2668368",
+  "result": {
+    "markdown": "# Lec01 - Review\n*Scribe: Eunkyu Kim (Q)*\n\n## What is control?\nThe subject of controls revolves around adjusting the available degree of freedoms (DOFs) to achieve acceptable level of operation of a system, or, in controls language, a plant. \n\n\n\n\n::: {.cell layout-align=\"center\" engine.opts='{\"dvisvgm.opts\":\"--font-format=woff\"}'}\n::: {.cell-output-display}\n![](lec01_files/figure-html/plant-1.svg){fig-align='center' width=50%}\n:::\n:::\n\nThe schematic above shows a very simple plant and control signal block diagram. \n$u$ represents the input signal, $y$ represents the output, and $d$ represents disturbances. \n",
+    "supporting": [
+      "lec01_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
